@@ -1,0 +1,3 @@
+# --- coinbase-trader/requirements.txt
+python-dotenv==1.0.0
+coinbase-pro==1.0.2          # pip‑friendly alias for the official Coinbase Pro client
